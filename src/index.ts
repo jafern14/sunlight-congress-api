@@ -5,7 +5,6 @@ import { VoteController } from './controllers/votes';
 import { LegislatorController } from './controllers/legislators';
 
 const server = new Hapi.Server();
-
 const legislatorController = new LegislatorController(),
     voteController = new VoteController();
 
