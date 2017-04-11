@@ -27,7 +27,6 @@ module.exports = {
     ]
   },
   plugins: [
-    new webpack.optimize.OccurrenceOrderPlugin(),
     new webpack.NoEmitOnErrorsPlugin(),
     FailPlugin,
     new webpack.ContextReplacementPlugin(

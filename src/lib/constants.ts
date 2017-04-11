@@ -1,3 +1,5 @@
+'use strict';
+
 export class Constants {
 	public static readonly API_BASE_URL: string = 'https://congress.api.sunlightfoundation.com/';
 }

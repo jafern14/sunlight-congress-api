@@ -20,16 +20,18 @@
   },
   "homepage": "https://github.com/jafern14/sunlight-congress-api#readme",
   "dependencies": {
-    "hapi": "^16.1.0",
-    "rxjs": "5.1.1",
-    "zone.js": "^0.7.7",
     "core-js": "^2.4.1",
-    "request": "^2.81.0"
+    "hapi": "^16.1.0",
+    "nconf": "^0.8.4",
+    "request": "^2.81.0",
+    "rxjs": "5.1.1",
+    "zone.js": "^0.7.7"
   },
   "devDependencies": {
     "@types/es6-shim": "^0.31.32",
     "@types/hapi": "^16.0.0",
     "@types/jasmine": "^2.5.43",
+    "@types/nconf": "0.0.34",
     "@types/node": "^7.0.5",
     "autoprefixer": "^6.7.3",
     "babel-eslint": "^7.1.1",
