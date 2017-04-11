@@ -31,6 +31,7 @@ export function init(configs: IServerConfigurations) {
     // init Features
     Votes.init(server, configs);
     Legislators.init(server, configs);
+    server.route({ method: 'GET', path: '/health', handler: (request, reply) => { reply('Server is running!'); } });
 
     return server;
 };
