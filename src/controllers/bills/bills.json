@@ -1,0 +1,799 @@
+[
+	{
+		"bill_id": "sres121-115",
+		"bill_type": "sres",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSJU"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 121,
+		"official_title": "A resolution designating April 11, 2017, as the \"National Birthday of the U.S. Navy Submarine Force\".",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Christopher",
+			"last_name": "Murphy",
+			"middle_name": "S.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001169",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-resolution/121",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/sres121"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "sres120-115",
+		"bill_type": "sres",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSJU"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_version": {
+			"version_code": "is",
+			"issued_on": "2017-04-06",
+			"version_name": "Introduced in Senate",
+			"bill_version_id": "sres120-115-is",
+			"urls": {
+				"html": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres120is/html/BILLS-115sres120is.htm",
+				"pdf": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres120is/pdf/BILLS-115sres120is.pdf",
+				"xml": "https://www.gpo.gov/fdsys/pkg/BILLS-115sres120is/xml/BILLS-115sres120is.xml"
+			},
+			"pages": 3
+		},
+		"last_version_on": "2017-04-06",
+		"last_vote_at": null,
+		"number": 120,
+		"official_title": "A resolution designating April 20, 2017, as \"National Alternative Fuel Vehicle Day.\"",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Joe",
+			"last_name": "Manchin",
+			"middle_name": null,
+			"name_suffix": "III",
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001183",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-resolution/120",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/sres120"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "sres119-115",
+		"bill_type": "sres",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSGA"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 119,
+		"official_title": "A resolution requiring authorizing committees to hold annual hearings on Government Accountability Office investigative reports on the identification, consolidation, and elimination of duplicative Government programs.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Cory",
+			"last_name": "Gardner",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "G000562",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-resolution/119",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/sres119"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "sjres40-115",
+		"bill_type": "sjres",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSFR"
+		],
+		"congress": 115,
+		"cosponsors_count": 3,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 40,
+		"official_title": "A joint resolution to provide limitations on the transfer of air-to-ground munitions from the United States to Saudi Arabia.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Christopher",
+			"last_name": "Murphy",
+			"middle_name": "S.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001169",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-joint-resolution/40",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/sjres40"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s887-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSGA"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 887,
+		"official_title": "A bill to amend the Homeland Security Act of 2002 to require a multiyear acquisition strategy for the Department of Homeland Security, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Steve",
+			"last_name": "Daines",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "D000618",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/887",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s887"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s886-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSGA"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 886,
+		"official_title": "A bill to amend the Homeland Security Act of 2002 to establish an Acquisition Review Board in the Department of Homeland Security, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Steve",
+			"last_name": "Daines",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "D000618",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/886",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s886"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s885-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSFI"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_version_on": "2017-04-06",
+		"last_vote_at": null,
+		"number": 885,
+		"official_title": "A bill to amend the Internal Revenue Code of 1986 to include foster care transition youth as members of targeted groups for purposes of the work opportunity credit.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Robert",
+			"last_name": "Casey",
+			"middle_name": "P.",
+			"name_suffix": "Jr.",
+			"nickname": "Bob",
+			"title": "Sen"
+		},
+		"sponsor_id": "C001070",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/885",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s885"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s884-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSEG"
+		],
+		"congress": 115,
+		"cosponsors_count": 0,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 884,
+		"official_title": "A bill to amend the Omnibus Budget Reconciliation Act of 1993 to require the Bureau of Land Management to provide a claimant of a small miner waiver from claim maintenance fees with a period of 60 days after written receipt of 1 or more defects is provided to the claimant by registered mail to cure the 1 or more defects or pay the claim maintenance fee, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Lisa",
+			"last_name": "Murkowski",
+			"middle_name": "A.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001153",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/884",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s884"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s883-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSEG"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 883,
+		"official_title": "A bill to provide for reforms of the administration of the outer Continental Shelf of the United States, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Lisa",
+			"last_name": "Murkowski",
+			"middle_name": "A.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001153",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/883",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s883"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s882-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSVA"
+		],
+		"congress": 115,
+		"cosponsors_count": 3,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 882,
+		"official_title": "A bill to amend title 38, United States Code, to provide for the entitlement to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs for members of the Armed Forces awarded the Purple Heart, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Mike",
+			"last_name": "Rounds",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "R000605",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/882",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s882"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s881-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSBK"
+		],
+		"congress": 115,
+		"cosponsors_count": 3,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_version_on": "2017-04-06",
+		"last_vote_at": null,
+		"number": 881,
+		"official_title": "A bill to reduce risks to the financial system by limiting banks' ability to engage in certain risky activities and limiting conflicts of interest, to reinstate certain Glass-Steagall Act protections that were repealed by the Gramm-Leach-Bliley Act, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Elizabeth",
+			"last_name": "Warren",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "W000817",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/881",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s881"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s880-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSEV"
+		],
+		"congress": 115,
+		"cosponsors_count": 7,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 880,
+		"official_title": "A bill to ensure the use of American iron and steel in public water systems, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Tammy",
+			"last_name": "Baldwin",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "B001230",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/880",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s880"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s879-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSEG"
+		],
+		"congress": 115,
+		"cosponsors_count": 3,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 879,
+		"official_title": "A bill to expedite and prioritize forest management activities to achieve ecosystem restoration objectives, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "John",
+			"last_name": "Barrasso",
+			"middle_name": "A.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "B001261",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/879",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s879"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s878-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSCM"
+		],
+		"congress": 115,
+		"cosponsors_count": 10,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 878,
+		"official_title": "A bill to establish privacy protections for customers of broadband Internet access service and other telecommunications services.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Edward",
+			"last_name": "Markey",
+			"middle_name": "J.",
+			"name_suffix": null,
+			"nickname": "Ed",
+			"title": "Sen"
+		},
+		"sponsor_id": "M000133",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/878",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s878"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s877-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSHR"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 877,
+		"official_title": "A bill to amend the Family Educational Rights and Privacy Act of 1974 to ensure that student data handled by private companies is protected, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Edward",
+			"last_name": "Markey",
+			"middle_name": "J.",
+			"name_suffix": null,
+			"nickname": "Ed",
+			"title": "Sen"
+		},
+		"sponsor_id": "M000133",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/877",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s877"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s876-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSFI"
+		],
+		"congress": 115,
+		"cosponsors_count": 6,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 876,
+		"official_title": "A bill to amend the Internal Revenue Code of 1986 to recognize Indian tribal governments for purposes of determining under the adoption credit whether a child has special needs.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Heidi",
+			"last_name": "Heitkamp",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "H001069",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/876",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s876"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s875-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSCM"
+		],
+		"congress": 115,
+		"cosponsors_count": 0,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_version_on": "2017-04-06",
+		"last_vote_at": null,
+		"number": 875,
+		"official_title": "A bill to require the Comptroller General of the United States to conduct a study and submit a report on filing requirements under the Universal Service Fund programs.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Dan",
+			"last_name": "Sullivan",
+			"middle_name": null,
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "S001198",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/875",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s875"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s874-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSFI"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_version_on": "2017-04-06",
+		"last_vote_at": null,
+		"number": 874,
+		"official_title": "A bill to amend title XIX of the Social Security Act to protect the enrollment of incarcerated youth for medical assistance under the Medicaid program, and for other purposes.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Christopher",
+			"last_name": "Murphy",
+			"middle_name": "S.",
+			"name_suffix": null,
+			"nickname": null,
+			"title": "Sen"
+		},
+		"sponsor_id": "M001169",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/874",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s874"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s873-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSGA"
+		],
+		"congress": 115,
+		"cosponsors_count": 1,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 873,
+		"official_title": "A bill to amend section 8433 of title 5, United States Code, to provide for flexibility in making withdrawals from the Thrift Savings Fund.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Robert",
+			"last_name": "Portman",
+			"middle_name": "J.",
+			"name_suffix": null,
+			"nickname": "Rob",
+			"title": "Sen"
+		},
+		"sponsor_id": "P000449",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/873",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s873"
+		},
+		"withdrawn_cosponsors_count": 0
+	},
+	{
+		"bill_id": "s872-115",
+		"bill_type": "s",
+		"chamber": "senate",
+		"committee_ids": [
+			"SSFI"
+		],
+		"congress": 115,
+		"cosponsors_count": 9,
+		"enacted_as": null,
+		"history": {
+			"active": false,
+			"awaiting_signature": false,
+			"enacted": false,
+			"vetoed": false
+		},
+		"introduced_on": "2017-04-06",
+		"last_action_at": "2017-04-06",
+		"last_vote_at": null,
+		"number": 872,
+		"official_title": "A bill to amend title XVIII of the Social Security Act to make permanent the extension of the Medicare-dependent hospital (MDH) program and the increased payments under the Medicare low-volume hospital program.",
+		"popular_title": null,
+		"related_bill_ids": [],
+		"short_title": null,
+		"sponsor": {
+			"first_name": "Charles",
+			"last_name": "Grassley",
+			"middle_name": "E.",
+			"name_suffix": null,
+			"nickname": "Chuck",
+			"title": "Sen"
+		},
+		"sponsor_id": "G000386",
+		"urls": {
+			"congress": "https://www.congress.gov/bill/115th/senate-bill/872",
+			"govtrack": "https://www.govtrack.us/congress/bills/115/s872"
+		},
+		"withdrawn_cosponsors_count": 0
+	}
+]

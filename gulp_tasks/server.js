@@ -9,7 +9,7 @@ gulp.task('nodemon', function (cb) {
     var called = false;
     return nodemon({
         script: path.join(process.cwd(), conf.paths.tmp),
-        ext: 'js',
+        ext: 'js ts',
         ignore: [
             'gulpfile.js',
             'node_modules/',
@@ -19,7 +19,8 @@ gulp.task('nodemon', function (cb) {
         env: {
             'NODE_ENV': 'development',
             'DEBUG': 'appname:*'
-        }
+        },
+        verbose: true
     })
         .on('start', () => {
             // ensure start only got called once
